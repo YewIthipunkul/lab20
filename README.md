@@ -1,1 +1,2 @@
-# lab20
+# NAME: Ithipunkul Nuntawattanakorn
+# STUDENT ID: 670610792
